@@ -1,0 +1,1673 @@
+<REAPER_PROJECT 0.1 "7.80/OSX64-clang" 1790570482 0
+  <NOTES 0 2
+  >
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  TCPUIFLAGS 0
+  MIXERUIFLAGS 11 48 0
+  ENVFADESZ10 40
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1 0
+  VIDEO_CONFIG 0 0 65792
+  PANMODE 3
+  PANLAWFLAGS 3
+  CURSOR 0
+  ZOOM 57.6399407969249 0 0
+  VZOOMEX 6 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Media" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/Week 3/10 sec piece/C03-S01-drum-beats.wav"
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 0 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  RENDER_NORMALIZE 193 0.199526 0.891251 0 0 1 1
+  RENDER_TRIM 0.000001 0.000001 0 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxAAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    BEATLEN 4
+    FREQ 1760 880 1
+    SAMPLES "" "" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4 0
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0 1
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_PANLAWFLAGS 3
+  MASTER_FX 1
+  MASTER_TRACKID {FAB0FCEA-A79F-714C-A5EA-64BD1597AF40}
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {5223F948-9559-CE49-94C0-81A63678837E}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {91CF9AA8-1A68-3442-AF98-7ABB212A131A}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  RULERHEIGHT 86 86
+  RULERLANE 1 4 "" 0 -1 0
+  RULERLANE 2 8 "" 0 -1 0
+  <PROJBAY
+  >
+  <TRACK {7176DDC7-CA82-EA4F-8A0A-BD66CB5A33DC}
+    NAME C01-S04-pull-out-bathtub-mat_FAV
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {7176DDC7-CA82-EA4F-8A0A-BD66CB5A33DC}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {3EB68430-1C7C-5D4B-8564-CE581EC56AB1}
+      IID 47
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {06241F7D-9452-A24D-A487-F88BC872DE3A}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+  >
+  <TRACK {2F9F103B-5F0E-7B46-B124-51BC4CBAE7F7}
+    NAME K
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2F9F103B-5F0E-7B46-B124-51BC4CBAE7F7}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D016024A-D5D3-C248-996C-2A7BAC9AEB9F}
+      IID 47
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1
+      PLAYRATE 0.6 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B9028848-4283-A248-9F7C-D65381CAEF5B}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 1
+      SNAPOFFS 0
+      LENGTH 0.1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {80EEB89D-C8F8-5544-9988-09901320303E}
+      IID 65
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1
+      PLAYRATE 0.6 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {859B1735-3CCA-364B-A191-E6A8250AA6E6}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 0.1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D8AB51EF-1D74-DE42-95A0-D2995D7EFBE6}
+      IID 73
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1
+      PLAYRATE 0.6 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {00E0152E-ED00-314C-8D94-C365816431FD}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.5
+      SNAPOFFS 0
+      LENGTH 0.1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6E4B1893-9357-9744-9073-8914CD62B65C}
+      IID 86
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1
+      PLAYRATE 0.6 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8351DECE-9919-8047-9AD4-B9E3F7F97521}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.25
+      SNAPOFFS 0
+      LENGTH 0.1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BBF165A8-5D74-FD4C-9924-D9A65BD296C0}
+      IID 84
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1
+      PLAYRATE 0.6 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {30D04CDC-072C-2E40-9B06-8B5D662AACB6}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.5
+      SNAPOFFS 0
+      LENGTH 0.1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5E0E63A8-1201-7646-A67A-73E68D1FC346}
+      IID 84
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1
+      PLAYRATE 0.6 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3E43E095-836F-174C-9F77-EC7A1A2D17FF}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 7
+      SNAPOFFS 0
+      LENGTH 0.1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2DBF0C60-BAC0-A74A-90AD-1031D3057C19}
+      IID 84
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1
+      PLAYRATE 0.6 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C86CD639-A2DE-DE42-B84A-70041F0DCCCE}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.5
+      SNAPOFFS 0
+      LENGTH 0.1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E65E4FB6-610F-F145-8A0F-241DFBF2F5C2}
+      IID 84
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1
+      PLAYRATE 0.6 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C77188BC-D6CD-984E-B756-3425E863C52C}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+  >
+  <TRACK {82D53186-D742-664E-A11F-A64B280E1299}
+    NAME S
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {82D53186-D742-664E-A11F-A64B280E1299}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.5
+      SNAPOFFS 0
+      LENGTH 0.15
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0D89156A-9AC4-6541-A680-2B3F7B6D7B77}
+      IID 47
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {115F7A59-CE61-1B4D-9B09-CC2DBF911969}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.5
+      SNAPOFFS 0
+      LENGTH 0.15
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3BA5B5B3-A7FF-F146-91DB-E826E2EB49DA}
+      IID 72
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A35EF685-8A8D-0E4A-A607-C8EC3AA59871}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.75
+      SNAPOFFS 0
+      LENGTH 0.15
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C98AD84A-1826-0D4C-AB6E-4978CA118359}
+      IID 85
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B225A61A-2957-8F45-8C47-AFA2EDC9E376}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.25
+      SNAPOFFS 0
+      LENGTH 0.15
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FFA96407-3D48-C048-B4E1-A872461EB274}
+      IID 87
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {08C0D041-DDBB-B941-96EF-C57F84DC1BB2}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.25
+      SNAPOFFS 0
+      LENGTH 0.15
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E1E17D2C-F4A0-1E46-AD88-C218F03E98DC}
+      IID 96
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C87C9061-56B0-784C-9F9B-AE28AF13F724}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.75
+      SNAPOFFS 0
+      LENGTH 0.15
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {879E19BE-B9E3-4847-AC01-9C25D672061C}
+      IID 97
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2CA43981-713D-CF4E-8245-5C5029DD7A97}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.5
+      SNAPOFFS 0
+      LENGTH 0.15
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2AE49BF4-96FF-6E4F-A674-5058F76C5F75}
+      IID 121
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {672B074D-D8E5-014D-98DF-86BB72E65313}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.65
+      SNAPOFFS 0
+      LENGTH 0.15
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {29B35170-58D9-7C46-A429-672C738033D3}
+      IID 122
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1F046FA7-EB16-BE4B-9FE7-2BF018B04D86}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.8
+      SNAPOFFS 0
+      LENGTH 0.15
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7180E96D-C39E-0542-AEC3-AEC1570DA635}
+      IID 123
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D7E5D2B6-3DB4-6A46-AA53-4A2956E94AB6}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.95
+      SNAPOFFS 0
+      LENGTH 0.15
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BD83C1B4-D37B-A442-877E-00FAA66AF08B}
+      IID 132
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {034D8BE1-48E4-AC4C-88FD-DF02E835CBC5}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+  >
+  <TRACK {CF3AB9A2-9927-134F-BD0B-B2202D08EE09}
+    NAME H
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {CF3AB9A2-9927-134F-BD0B-B2202D08EE09}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {65D8709B-345A-5B4F-B11C-FE0169F229A5}
+      IID 47
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {81C103CC-E49D-BA4A-9D34-492AD7CA103B}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.25
+      SNAPOFFS 0
+      LENGTH 0.13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {ED88A7A1-1E33-744D-86E3-D85ABBFB14B1}
+      IID 64
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C7D21149-F37B-FA41-8AA8-174FAA00D878}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.5
+      SNAPOFFS 0
+      LENGTH 0.13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6C38B34F-5DF2-224B-915F-ED3BA257A766}
+      IID 57
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3E37CEF4-710B-3B46-8703-B16746E6A4EC}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.75
+      SNAPOFFS 0
+      LENGTH 0.13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4D3E6C2C-ACFE-BC49-83FB-5816F2699E2A}
+      IID 66
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C0AE4AE1-94D4-C746-866D-BCF80F45CCF1}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 1
+      SNAPOFFS 0
+      LENGTH 0.13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {84F843F1-B20E-6543-89FD-C4BFBD616141}
+      IID 67
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {97F32D72-2247-B142-9E3E-58888600BE33}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.25
+      SNAPOFFS 0
+      LENGTH 0.13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4E7782CC-6B53-F24E-84B3-B72DC9F79EFB}
+      IID 68
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {24B8FBAC-8630-774A-AF62-83785971B734}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.5
+      SNAPOFFS 0
+      LENGTH 0.13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {61EB657F-4B4B-BD4F-8322-76CE06D3949D}
+      IID 69
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A7E15AA0-860A-114B-B219-1CFAE1462A4C}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.75
+      SNAPOFFS 0
+      LENGTH 0.13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C13A62A1-6B08-7149-A952-1CCC33B707DB}
+      IID 70
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1C6DC21F-6D18-3F42-BE71-03C278906DDD}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 0.13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FAB23338-3A56-1B4F-8026-4A010D76ED55}
+      IID 71
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2558B734-C03C-9C42-B5CD-544F4BFA7555}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.25
+      SNAPOFFS 0
+      LENGTH 0.13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {47103B98-7894-B34E-B914-5E12BF3B4D60}
+      IID 74
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {784BB1CA-55E7-7348-BDD4-E096D3F6DCEA}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.5
+      SNAPOFFS 0
+      LENGTH 0.13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BF892D6A-13C8-294F-80AF-75D34F79A4C4}
+      IID 75
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C70A7D4A-3D4B-8A45-8750-772DB03B2452}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.75
+      SNAPOFFS 0
+      LENGTH 0.13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EAE95728-1894-2145-8835-3C00C450D393}
+      IID 76
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {49E594B4-673B-AD43-810E-EAFD8EDC7643}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 3
+      SNAPOFFS 0
+      LENGTH 0.13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B372773A-C786-E14C-9570-D04EA39F678C}
+      IID 77
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4E48143C-6A61-9D4F-96BC-63D503CD2470}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.25
+      SNAPOFFS 0
+      LENGTH 0.13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {747A89EF-9FD2-4047-8F02-5764A0A1F585}
+      IID 78
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {79547E6E-2A7C-4843-B9C6-362B240C1F17}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.5
+      SNAPOFFS 0
+      LENGTH 0.13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3AF08ADD-C2B1-E045-8055-F20ABE2F3C2B}
+      IID 79
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CBB45004-43A9-DF40-B3E3-B948CF8F22EC}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.75
+      SNAPOFFS 0
+      LENGTH 0.13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {456DABC3-16FF-E24C-9360-AE50277A26AD}
+      IID 80
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {00E4D589-AF70-144F-A169-141B751248A9}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 4
+      SNAPOFFS 0
+      LENGTH 0.13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DA25B0D8-B8DB-4041-BD6E-942E143E80A5}
+      IID 81
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {685ED33A-42E9-D640-957F-C045B54442C5}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.25
+      SNAPOFFS 0
+      LENGTH 0.13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {606FE8B2-C886-014F-83B9-83F6A0344567}
+      IID 82
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AB356872-7266-E440-B263-938A2FEAC00C}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.5
+      SNAPOFFS 0
+      LENGTH 0.13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3B3480D8-D6A1-4041-9A2F-C285451E6A2E}
+      IID 83
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C1514068-C1A1-1240-B9C9-4F5EFDC81AD7}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.5
+      SNAPOFFS 0
+      LENGTH 0.13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {753C568F-F2E9-734D-B69D-2C0D2D6EC44F}
+      IID 83
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D3BF57A8-7A02-A947-BB11-16B343DC02B5}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.75
+      SNAPOFFS 0
+      LENGTH 0.13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {98D6A9E7-C6B4-5B46-BFE1-BB61DCF69D23}
+      IID 106
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C979F6E0-3C6F-DA4F-AFDB-9983463E75F3}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 0.13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C2D5258E-A12E-A54E-9A79-F334DFEF8DFD}
+      IID 107
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3E142552-AF06-2B4F-86FC-D31EAE8E20C7}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.25
+      SNAPOFFS 0
+      LENGTH 0.13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C7A66FE6-1373-2444-A85B-B492D7D010C8}
+      IID 83
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {13D84AAE-D89D-B349-9816-78343A9836BB}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.5
+      SNAPOFFS 0
+      LENGTH 0.13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5C7D9311-6299-7447-AC92-4F34773635D7}
+      IID 109
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EE06B349-3149-5948-B85A-3DC5CC310A2C}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.75
+      SNAPOFFS 0
+      LENGTH 0.13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A5741617-443A-6D40-B4C0-D7FD35103A2C}
+      IID 108
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FBEFA729-DC00-194E-9AC1-EE6BB0E674D1}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 7
+      SNAPOFFS 0
+      LENGTH 0.13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {921E32A4-51C2-904C-9643-54EAF888B298}
+      IID 110
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DF6E4A22-88E3-0E44-A370-7D885E7B85BB}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.25
+      SNAPOFFS 0
+      LENGTH 0.13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {35FF27ED-BDF2-A84C-81FC-7A2FC85253C0}
+      IID 83
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8EA45E5C-F4DA-1444-BE03-1C536023D36B}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.5
+      SNAPOFFS 0
+      LENGTH 0.13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7ECC1911-F02E-A645-B21E-3FF38B059A29}
+      IID 113
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6D1BE1B5-48FB-E548-89D6-D153B346FC5F}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.75
+      SNAPOFFS 0
+      LENGTH 0.13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AA527AD6-5151-6242-8901-70FFF3A19082}
+      IID 83
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {97837611-513F-6C49-925D-469FC1607CC8}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 8
+      SNAPOFFS 0
+      LENGTH 0.13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2B8DECD3-F28A-D44A-9D78-926F2E3EB16E}
+      IID 112
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {50EA4B8D-6941-A24C-8FF7-AD7980664BA4}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.25
+      SNAPOFFS 0
+      LENGTH 0.13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {46FD18C8-2A65-0F47-8258-D398E9351775}
+      IID 111
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A6B47078-190D-9941-8FFC-6BADC571B9C0}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 9
+      SNAPOFFS 0
+      LENGTH 0.13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4EFD947A-6179-EC48-A3F7-7EC050DC6F89}
+      IID 136
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CD7E9528-E0D0-314A-919A-8B19C6F34B9D}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.13
+      SNAPOFFS 0
+      LENGTH 0.13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {089E4F01-77F1-7440-91E4-9E5CC16B56DE}
+      IID 131
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {90964E49-7274-5446-AACA-CA147DFA6B04}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.26
+      SNAPOFFS 0
+      LENGTH 0.13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A8DFDF7E-5BA3-144C-B3E2-7F95A2CE2953}
+      IID 133
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E9B7DB28-D0BD-6843-B151-361B9D8B7134}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.39
+      SNAPOFFS 0
+      LENGTH 0.13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F879AF05-1A04-AE42-9ED6-0A4E5D5AA313}
+      IID 134
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C3040BD6-68E7-5440-8707-238269069C60}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.52
+      SNAPOFFS 0
+      LENGTH 0.13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AAE76C6E-AE69-4E47-A326-7A3EB0FCD563}
+      IID 135
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A229B304-2F86-F142-A160-22ACF995673C}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+  >
+  <TRACK {21B882B9-25CF-404C-92B9-A1092B202C62}
+    NAME fill
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {21B882B9-25CF-404C-92B9-A1092B202C62}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 3.5
+      SNAPOFFS 0
+      LENGTH 0.15
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C0D893D0-4E5D-C945-B684-DB16ED409C03}
+      IID 85
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9904CBDE-B82D-8B48-9373-B692FBDDCBD7}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.65
+      SNAPOFFS 0
+      LENGTH 0.15
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {203210EA-0199-7A47-8338-3D4C87321264}
+      IID 89
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2.5
+      PLAYRATE 1.15 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {133BDBEF-9384-1B44-BC2C-137A65251396}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.8
+      SNAPOFFS 0
+      LENGTH 0.15
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F83C3522-95E2-E14F-B6BB-EA94580365C8}
+      IID 90
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2.5
+      PLAYRATE 1.3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AA905EA7-C25F-3F4F-893E-31136DDED348}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.95
+      SNAPOFFS 0
+      LENGTH 0.15
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CAECD308-CF77-1346-A785-C5A497D980A6}
+      IID 91
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2.5
+      PLAYRATE 1.5 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {53F25BCB-642B-1543-9078-6FB7C6FF6250}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+      >
+    >
+  >
+  <TRACK {A1BA3A54-3FA6-E44D-9C3D-B399EADD3488}
+    NAME extra
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A1BA3A54-3FA6-E44D-9C3D-B399EADD3488}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 7.5
+      SNAPOFFS 0
+      LENGTH 0.15
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {14103F2E-FA03-5A41-A92A-1CFCF8FEDB0A}
+      IID 118
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.35
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B942B3D6-63A3-8D4A-B5CC-56621DA57B33}
+      <SOURCE SECTION
+        LENGTH 0.15
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 7.65
+      SNAPOFFS 0
+      LENGTH 0.15
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {253222DD-393C-AB42-82F8-FB9F7B37DC3A}
+      IID 97
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.35
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EFF1C7FD-32BC-CC4D-A17A-9F0E849AC90E}
+      <SOURCE SECTION
+        LENGTH 0.15
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 7.8
+      SNAPOFFS 0
+      LENGTH 0.15
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E477A3A8-1407-584D-A595-2788BEB66CA1}
+      IID 119
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.35
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3A8E5D32-90D8-5843-8DAB-51CEA174F00A}
+      <SOURCE SECTION
+        LENGTH 0.15
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 7.95
+      SNAPOFFS 0
+      LENGTH 0.15
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3A452398-2B47-7B48-BE10-3AA883D29A5B}
+      IID 120
+      NAME C01-S04-pull-out-bathtub-mat_FAV.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.35
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4AA00812-2786-A64F-BF50-D7D1F4A484A3}
+      <SOURCE SECTION
+        LENGTH 0.15
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C01/C01-S04-pull-out-bathtub-mat_FAV.wav"
+        >
+      >
+    >
+  >
+>
