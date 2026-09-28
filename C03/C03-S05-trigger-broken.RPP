@@ -1,0 +1,991 @@
+<REAPER_PROJECT 0.1 "7.80/OSX64-clang" 1790629754 0
+  <NOTES 0 2
+  >
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  TCPUIFLAGS 0
+  MIXERUIFLAGS 11 48 0
+  ENVFADESZ10 40
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1 0
+  VIDEO_CONFIG 0 0 65792
+  PANMODE 3
+  PANLAWFLAGS 3
+  CURSOR 6.35666421242734
+  ZOOM 111.8511181713811 0 0
+  VZOOMEX 6 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Media" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/Week 3/10 sec piece/C03-S05-trigger-broken.wav"
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 0 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  RENDER_NORMALIZE 193 0.199526 0.891251 0 0 1 1
+  RENDER_TRIM 0.000001 0.000001 0 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxAAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    BEATLEN 4
+    FREQ 1760 880 1
+    SAMPLES "" "" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4 0
+  PLAYRATE 1 0 0.25 4
+  SELECTION 3.5 5
+  SELECTION2 3.5 5
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0 1
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_PANLAWFLAGS 3
+  MASTER_FX 1
+  MASTER_TRACKID {FAB0FCEA-A79F-714C-A5EA-64BD1597AF40}
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {5223F948-9559-CE49-94C0-81A63678837E}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {91CF9AA8-1A68-3442-AF98-7ABB212A131A}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  RULERHEIGHT 86 86
+  RULERLANE 1 4 "" 0 -1 0
+  RULERLANE 2 8 "" 0 -1 0
+  <PROJBAY
+  >
+  <TRACK {173B14C9-34C4-9A44-8AE4-7FC866DA9266}
+    NAME C02-S03-plug
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {173B14C9-34C4-9A44-8AE4-7FC866DA9266}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {119F9245-C7F6-B04F-B934-64E2BEB72B0B}
+      IID 231
+      NAME C02-S03-plug.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {910E923F-723C-864A-AF9C-45F93D6FFC9B}
+      <SOURCE WAVE
+        FILE "Media/C02-S03-plug.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S03-plug.wav"
+      >
+    >
+  >
+  <TRACK {FB3BE901-DD9D-8941-B199-A4A57FB8D6BB}
+    NAME 1
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {FB3BE901-DD9D-8941-B199-A4A57FB8D6BB}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9F455D3F-614E-B141-BB40-376F7C75876B}
+      IID 1
+      NAME C02-S03-plug.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {40E172A1-318C-F241-BFBF-1BF58CFF66CD}
+      <SOURCE WAVE
+        FILE "Media/C02-S03-plug.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S03-plug.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.94901940690459
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {20541003-BCFD-1546-BC99-67909E5E3491}
+      IID 2
+      NAME C02-S03-plug.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3E88D918-343F-B941-9EEA-C07CFF8C8164}
+      <SOURCE WAVE
+        FILE "Media/C02-S03-plug.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S03-plug.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.26459750960315
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8C4E7D85-CE27-0442-A0C2-FCD5352ACE61}
+      IID 3
+      NAME C02-S03-plug.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {098DBCC4-706C-A346-8363-989995969EE6}
+      <SOURCE WAVE
+        FILE "Media/C02-S03-plug.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S03-plug.wav"
+      >
+    >
+  >
+  <TRACK {BA1D87CD-268A-D740-B37E-9F865BB760A7}
+    NAME 2
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {BA1D87CD-268A-D740-B37E-9F865BB760A7}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 2.19041171876892
+      SNAPOFFS 0
+      LENGTH 0.2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AFC4BD82-1DAE-1B42-AAB1-AE6451FD583D}
+      IID 5
+      NAME C02-S03-plug.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E025D0C7-2748-6B49-91E1-4FA5390D8129}
+      <SOURCE WAVE
+        FILE "Media/C02-S03-plug.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S03-plug.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.52056076534689
+      SNAPOFFS 0
+      LENGTH 0.2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B0864C0E-D4FF-6347-BD56-2A468D7D1C99}
+      IID 6
+      NAME C02-S03-plug.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DF55DF6E-A3DA-8041-AA50-B8257E4B3C61}
+      <SOURCE WAVE
+        FILE "Media/C02-S03-plug.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S03-plug.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.72056076534689
+      SNAPOFFS 0
+      LENGTH 0.2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7CF2989E-7D64-064C-ACFA-340372BC4D1C}
+      IID 1
+      NAME C02-S03-plug.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BDF96BAF-8740-6B47-9689-423CDBE60E61}
+      <SOURCE WAVE
+        FILE "Media/C02-S03-plug.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S03-plug.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.32518409441216
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0 0.29598907520584 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BA64CD09-C26E-2F4E-93C9-E52FA31EAA2C}
+      IID 29
+      NAME C02-S03-plug.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.5 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {72334C3D-E34C-F245-819C-56D5A2BF8D65}
+      <SOURCE WAVE
+        FILE "Media/C02-S03-plug.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S03-plug.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.52919501920631
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.29598907520584 1 1 0 0
+      FADEOUT 1.1 0 0.16026267219094 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {ADFE1706-1540-B041-8EAE-C3DB3B1BD4A6}
+      IID 30
+      NAME C02-S03-plug.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C28EC40A-F4EC-D746-A330-7CC111EC2AF1}
+      <SOURCE WAVE
+        FILE "Media/C02-S03-plug.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S03-plug.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.86893234701536
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.16026267219094 1 1 0 0
+      FADEOUT 1.1 0 0.07085811224119 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F3153920-5257-B548-96C7-55ABC282EAC9}
+      IID 34
+      NAME C02-S03-plug.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {28C665E8-A01C-144F-86F7-956553337EA9}
+      <SOURCE WAVE
+        FILE "Media/C02-S03-plug.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S03-plug.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.16396739484954
+      SNAPOFFS 0
+      LENGTH 0.2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0 0.06589316007538 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4472554C-8551-E345-8A4F-B12C479261A2}
+      IID 5
+      NAME C02-S03-plug.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9ED60ACC-08F8-AA43-A0FA-500706445FB4}
+      <SOURCE WAVE
+        FILE "Media/C02-S03-plug.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S03-plug.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.29807423477417
+      SNAPOFFS 0
+      LENGTH 0.2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.06589316007538 1 1 0 0
+      FADEOUT 1.1 0 0.06589316007537 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2D9416AB-2CF4-114D-84CF-2698014713B5}
+      IID 37
+      NAME C02-S03-plug.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {04E15184-47EA-4C48-B838-7D87A16CA388}
+      <SOURCE WAVE
+        FILE "Media/C02-S03-plug.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S03-plug.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.43218107469881
+      SNAPOFFS 0
+      LENGTH 0.2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.06589316007537 1 1 0 0
+      FADEOUT 1.1 0 0.0569527040804 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C9969A91-B037-184C-86E1-CB6D3CE1A80D}
+      IID 38
+      NAME C02-S03-plug.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.25 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B8E2A73F-E8D3-CA44-83F1-F36CC99ED23C}
+      <SOURCE WAVE
+        FILE "Media/C02-S03-plug.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S03-plug.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.5752283706184
+      SNAPOFFS 0
+      LENGTH 0.2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.0569527040804 1 1 0 0
+      FADEOUT 1.1 0 0.0927145280603 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1AC443EB-9E6C-EE4A-A10F-A38F9C286549}
+      IID 39
+      NAME C02-S03-plug.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.25 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {96B7FFE8-FA47-5A44-A649-66708B92004B}
+      <SOURCE WAVE
+        FILE "Media/C02-S03-plug.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S03-plug.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.6825138425581
+      SNAPOFFS 0
+      LENGTH 0.2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.0927145280603 1 1 0 0
+      FADEOUT 1.1 0 0.07483361607034 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2E9EA497-E714-EC4C-909E-C3A794A03488}
+      IID 40
+      NAME C02-S03-plug.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.5 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EFA4670F-0BDA-7F4C-8D8A-E41B4AE3B070}
+      <SOURCE WAVE
+        FILE "Media/C02-S03-plug.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S03-plug.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.80768022648776
+      SNAPOFFS 0
+      LENGTH 0.2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.07483361607034 1 1 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {55F22E7E-79EB-6B40-8EB2-8F8DD1CA4B8F}
+      IID 41
+      NAME C02-S03-plug.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.5 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A9BE7E9C-83A8-CF4B-B0D7-90CBE61D5298}
+      <SOURCE WAVE
+        FILE "Media/C02-S03-plug.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S03-plug.wav"
+      >
+    >
+  >
+  <TRACK {DE4F7DC8-2EBB-B241-BB44-801D22129FF6}
+    NAME 4
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {DE4F7DC8-2EBB-B241-BB44-801D22129FF6}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.87119973534175
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0 0.2 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FF04DB9C-8C56-9F48-BE30-623A5507D533}
+      IID 1
+      NAME C02-S03-plug.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.4 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2ABB0934-531A-B449-B119-CEF04F73C57E}
+      <SOURCE WAVE
+        FILE "Media/C02-S03-plug.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S03-plug.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.17119973534175
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.2 1 1 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {51A58A32-C0CA-1641-B05D-1440B912A6FB}
+      IID 28
+      NAME C02-S03-plug.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.75 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D3824354-6CF5-E445-9ED3-8F347D81870B}
+      <SOURCE WAVE
+        FILE "Media/C02-S03-plug.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S03-plug.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.88280233421116
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0 0.2 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {316CA020-9776-7A46-BA98-563CD900CE5F}
+      IID 43
+      NAME C02-S03-plug.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.4 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1B72F0B7-61B4-264C-B8C6-6449BB372601}
+      <SOURCE WAVE
+        FILE "Media/C02-S03-plug.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S03-plug.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.18280233421116
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.2 1 1 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AED92692-2D77-2240-84FE-F72C939B71A7}
+      IID 44
+      NAME C02-S03-plug.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.75 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D17DD3E1-BE0C-8D4D-A6D7-E838366CF609}
+      <SOURCE WAVE
+        FILE "Media/C02-S03-plug.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S03-plug.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.31957131701022
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {54B86655-78DA-924B-A3D1-0041BA2D4DAA}
+      IID 45
+      NAME C02-S03-plug.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.4 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3B60E925-9825-AA44-BB30-128156B6253C}
+      <SOURCE WAVE
+        FILE "Media/C02-S03-plug.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S03-plug.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.88282004469366
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A090B305-7DD7-DC4F-8482-00A89BD76FEB}
+      IID 221
+      NAME C02-S03-plug.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.4 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D3450802-2AF6-D644-B6AA-7C6DC4C9576B}
+      <SOURCE WAVE
+        FILE "Media/C02-S03-plug.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S03-plug.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.45500922837207
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0 0.25860768813567 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EBFA8588-249F-CA4D-8040-CB1E83E84D60}
+      IID 223
+      NAME C02-S03-plug.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.4 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AE03679C-96B5-9E4A-866A-3370608F82D0}
+      <SOURCE WAVE
+        FILE "Media/C02-S03-plug.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S03-plug.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.6964015402364
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.25860768813567 1 1 0 0
+      FADEOUT 1.1 0 0.17814358418089 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0BC3C285-BF58-C341-9665-848C750D0BF4}
+      IID 224
+      NAME C02-S03-plug.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.4 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {33B25A76-BC14-7749-B034-9877BBA22A78}
+      <SOURCE WAVE
+        FILE "Media/C02-S03-plug.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S03-plug.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.01825795605551
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.17814358418089 1 1 0 0
+      FADEOUT 1.1 0 0.20496495216582 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B77F7642-D84F-6F49-8E52-A6727FEA9E92}
+      IID 225
+      NAME C02-S03-plug.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.4 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C8B84341-0598-7E4C-86FD-A63E3BB80E53}
+      <SOURCE WAVE
+        FILE "Media/C02-S03-plug.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S03-plug.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.31329300388969
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.20496495216582 1 1 0 0
+      FADEOUT 1.1 0 0.2854290561206 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {85F7EB48-3FF5-8B4E-92A2-5CABD9424E08}
+      IID 226
+      NAME C02-S03-plug.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.4 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5212E579-873B-A140-9540-840B6F72A0E5}
+      <SOURCE WAVE
+        FILE "Media/C02-S03-plug.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S03-plug.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.52786394776909
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.2854290561206 1 1 0 0
+      FADEOUT 1.1 0 0.00827492027637 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {91EFDC80-7C35-E442-B686-CE3CE1A9B6CA}
+      IID 227
+      NAME C02-S03-plug.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.4 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {01F6019C-4603-5A44-9E11-778FAD40A907}
+      <SOURCE WAVE
+        FILE "Media/C02-S03-plug.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S03-plug.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.82289899560327
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.20496495216583 1 1 0 0
+      FADEOUT 1.1 0 0.29503504783418 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {46DE180A-FECF-1645-8717-9FB934722B32}
+      IID 228
+      NAME C02-S03-plug.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.4 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {07F1E0E8-85CD-5E43-BEFB-CE9824AB400C}
+      <SOURCE WAVE
+        FILE "Media/C02-S03-plug.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S03-plug.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.01958902749272
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.00827492027637 1 1 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9EA5B237-FE80-0045-A0D4-FC88F0CEA8DB}
+      IID 229
+      NAME C02-S03-plug.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.4 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {11C8BB53-ED25-CA4B-B098-23400121A39E}
+      <SOURCE WAVE
+        FILE "Media/C02-S03-plug.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S03-plug.wav"
+      >
+    >
+  >
+  <TRACK {DD8F1B0E-3D2F-CB4D-A9EA-CB41BBB44E28}
+    NAME 5
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {DD8F1B0E-3D2F-CB4D-A9EA-CB41BBB44E28}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 9.90602524243248
+      SNAPOFFS 0
+      LENGTH 0.2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5EF077A6-CE3F-2B46-8E48-086E899737BC}
+      IID 42
+      NAME C02-S03-plug.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9231D9C6-46B9-EC47-9A39-84979E80D4EC}
+      <SOURCE WAVE
+        FILE "Media/C02-S03-plug.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S03-plug.wav"
+      >
+    >
+  >
+>
