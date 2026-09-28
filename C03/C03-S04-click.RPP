@@ -1,0 +1,1055 @@
+<REAPER_PROJECT 0.1 "7.80/OSX64-clang" 1790628927 0
+  <NOTES 0 2
+  >
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  TCPUIFLAGS 0
+  MIXERUIFLAGS 11 48 0
+  ENVFADESZ10 40
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1 0
+  VIDEO_CONFIG 0 0 65792
+  PANMODE 3
+  PANLAWFLAGS 3
+  CURSOR 0
+  ZOOM 106.30925483365962 690 0
+  VZOOMEX 6 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Media" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/Week 3/10 sec piece/C03-S04-click.wav"
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 0 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  RENDER_NORMALIZE 193 0.199526 0.891251 0 0 1 1
+  RENDER_TRIM 0.000001 0.000001 0 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxAAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    BEATLEN 4
+    FREQ 1760 880 1
+    SAMPLES "" "" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4 0
+  PLAYRATE 1 0 0.25 4
+  SELECTION 2.53266145813898 2.98331296314591
+  SELECTION2 2.53266145813898 2.98331296314591
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0 1
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_PANLAWFLAGS 3
+  MASTER_FX 1
+  MASTER_TRACKID {FAB0FCEA-A79F-714C-A5EA-64BD1597AF40}
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {5223F948-9559-CE49-94C0-81A63678837E}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {91CF9AA8-1A68-3442-AF98-7ABB212A131A}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  RULERHEIGHT 86 86
+  RULERLANE 1 4 "" 0 -1 0
+  RULERLANE 2 8 "" 0 -1 0
+  <PROJBAY
+  >
+  <TRACK {8039AFBD-31F2-C943-AF9E-81BBC7EB8BDF}
+    NAME C02-S05-airpods-case
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {8039AFBD-31F2-C943-AF9E-81BBC7EB8BDF}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {04AF8E7A-A8A3-2D4E-9697-E352C459CCD1}
+      IID 144
+      NAME C02-S05-airpods-case.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4E01D4DB-AC0F-B74F-A401-17E2A03681F4}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S05-airpods-case.wav"
+      >
+    >
+  >
+  <TRACK {0996DC5C-2639-404A-9ECF-FDA6C583594C}
+    NAME a
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {0996DC5C-2639-404A-9ECF-FDA6C583594C}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.34528042244841
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.00103377371991 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A4B85BDC-E008-2B49-BAB9-2EA14A6D7F2E}
+      IID 145
+      NAME C02-S05-airpods-case.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B752D170-4A85-A340-BD1A-7DE92A634AA1}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S05-airpods-case.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.3442466487285
+      SNAPOFFS 0
+      LENGTH 0.37249935201742
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.00103377371991 1 1 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {276A8864-8820-2443-B9C0-28C87C87D86E}
+      IID 148
+      NAME C02-S05-airpods-case.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.12750064798258
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F2444BA8-F06F-D34E-A18F-8975267975C8}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S05-airpods-case.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.38546418513897
+      SNAPOFFS 0
+      LENGTH 0.34528042244841
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DEEDF7D7-A4AB-F548-9E1B-DB4E22E0B47D}
+      IID 166
+      NAME C02-S05-airpods-case.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {27200860-8017-9949-B3AB-41100E65681A}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S05-airpods-case.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.73390427960506
+      SNAPOFFS 0
+      LENGTH 0.37249935201742
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0 0.06554022117824 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {089E5769-C2D4-4D4B-9F2F-2B5CB9F5E6B2}
+      IID 167
+      NAME C02-S05-airpods-case.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.12750064798258
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CDE282AA-2635-D04C-9BDA-72F2872CB6C9}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S05-airpods-case.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.04086341044423
+      SNAPOFFS 0
+      LENGTH 0.34528042244841
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.06554022117824 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {94EDD150-3BFC-8943-B2C2-B4AD5F607772}
+      IID 168
+      NAME C02-S05-airpods-case.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1D2C8B73-0C48-234C-935B-B52F79BF4986}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S05-airpods-case.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.38930350491032
+      SNAPOFFS 0
+      LENGTH 0.37249935201742
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {320A9DBE-DA27-764D-B8B5-68894B975DCD}
+      IID 169
+      NAME C02-S05-airpods-case.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.12750064798258
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E3448CA9-39F1-7442-A7DD-62D5E00093C1}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S05-airpods-case.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.6322511303559
+      SNAPOFFS 0
+      LENGTH 0.3452804224484
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F13D0486-C7BB-1B48-B37C-4CB94E705694}
+      IID 170
+      NAME C02-S05-airpods-case.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.8 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EAD939A8-0F05-414D-BA2E-52E79605D86C}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S05-airpods-case.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.01079839456173
+      SNAPOFFS 0
+      LENGTH 0.37249935201742
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7263580E-DC07-C947-A65D-25C00548BC06}
+      IID 171
+      NAME C02-S05-airpods-case.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.12750064798258
+      PLAYRATE 0.8 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {51B1D3D8-F4A8-2349-82DC-411B832494ED}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S05-airpods-case.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.01771531549487
+      SNAPOFFS 0
+      LENGTH 0.34528042244841
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6F323B8E-CAA9-F345-960A-55AA1FE45558}
+      IID 172
+      NAME C02-S05-airpods-case.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.8 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C15CD826-5AEF-B044-9974-55CA1DFA184C}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S05-airpods-case.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.39880502998309
+      SNAPOFFS 0
+      LENGTH 0.37249935201742
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0 0.08408238881298 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AAE5BDA3-43FD-A548-8B24-AC074B6ABEC0}
+      IID 173
+      NAME C02-S05-airpods-case.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.12750064798258
+      PLAYRATE 0.8 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {742780C5-875B-504D-AEA5-F77DE8B0CFAD}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S05-airpods-case.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.68722199318753
+      SNAPOFFS 0
+      LENGTH 0.34528042244841
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.08408238881298 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {073B7BC2-DBBA-7A4E-8692-614978E6E00B}
+      IID 174
+      NAME C02-S05-airpods-case.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.8 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {317E088A-2822-C646-B988-7AB1AB2DA2F3}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S05-airpods-case.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.06576925739335
+      SNAPOFFS 0
+      LENGTH 0.37249935201742
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FFE4DF39-7CE1-854B-A905-BCF5AF485586}
+      IID 175
+      NAME C02-S05-airpods-case.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.12750064798258
+      PLAYRATE 0.8 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0E4E47C5-5D84-1A45-8C26-F2897F948082}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S05-airpods-case.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.86743817968956
+      SNAPOFFS 0
+      LENGTH 0.37249935201742
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2325BB23-342E-0946-9FB9-F26F687F3AAD}
+      IID 198
+      NAME C02-S05-airpods-case.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.12750064798258
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BA1F9ECF-F55E-7A40-AB8D-65D782E1E691}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S05-airpods-case.wav"
+      >
+    >
+  >
+  <TRACK {2DDB1563-B17F-7844-9383-C02795A8CEE8}
+    NAME b
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2DDB1563-B17F-7844-9383-C02795A8CEE8}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 2.83009145144356
+      SNAPOFFS 0
+      LENGTH 0.3894942554484
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7A16F482-5671-CB48-90D6-67944E4AEFD5}
+      IID 146
+      NAME C02-S05-airpods-case.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4CCAC211-78DF-F14C-A76F-D66C81088560}
+      <SOURCE SECTION
+        LENGTH 0.5
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S05-airpods-case.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 6.45332955169932
+      SNAPOFFS 0
+      LENGTH 0.41459938460638
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0 0.11404846631799 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {29340FCC-CB86-7A40-A2F1-6A89B4E2BA0E}
+      IID 176
+      NAME C02-S05-airpods-case.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.07210424080111
+      PLAYRATE 0.8 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0F6F3056-CA0A-2F4F-A511-2616A0E6394C}
+      <SOURCE SECTION
+        LENGTH 0.5
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S05-airpods-case.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 6.75388046998771
+      SNAPOFFS 0
+      LENGTH 0.41459938460638
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.11404846631799 1 1 0 0
+      FADEOUT 1.1 0 0.13240382179353 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AF9ADEC5-D0ED-0B4F-9AB8-5F8FAE369E19}
+      IID 179
+      NAME C02-S05-airpods-case.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.07210424080111
+      PLAYRATE 0.8 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {641BFE92-FA9E-0649-A143-D6231FA280B2}
+      <SOURCE SECTION
+        LENGTH 0.5
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S05-airpods-case.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 7.03607603280056
+      SNAPOFFS 0
+      LENGTH 0.41459938460638
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.13240382179353 1 1 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C94FC47D-8E00-7841-9D6B-EFACFB0B039B}
+      IID 180
+      NAME C02-S05-airpods-case.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.07210424080111
+      PLAYRATE 0.8 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F1178409-F02D-DE49-9E0F-07CD4C6B0D98}
+      <SOURCE SECTION
+        LENGTH 0.5
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S05-airpods-case.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 7.46877589578028
+      SNAPOFFS 0
+      LENGTH 0.41459938460638
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0 0.02893211542881 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {08478E3F-D179-E145-9F59-EACECCCD1C48}
+      IID 181
+      NAME C02-S05-airpods-case.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.07210424080111
+      PLAYRATE 0.8 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0BE979CA-6F47-DA49-88A9-50C742E8C445}
+      <SOURCE SECTION
+        LENGTH 0.5
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S05-airpods-case.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 7.66631278974928
+      SNAPOFFS 0
+      LENGTH 0.41459938460638
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.21706249063738 1 1 0 0
+      FADEOUT 1.1 0 0.197536893969 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4365ABA9-BAB0-014D-9CB0-95053BD59807}
+      IID 182
+      NAME C02-S05-airpods-case.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.07210424080111
+      PLAYRATE 0.8 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {36DD7CCF-7257-C544-8698-D48C208D6281}
+      <SOURCE SECTION
+        LENGTH 0.5
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S05-airpods-case.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 7.85444316495785
+      SNAPOFFS 0
+      LENGTH 0.41459938460638
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.02893211542881 1 1 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7EBB2C8E-AA3D-2242-AD39-EE4E48A35D68}
+      IID 183
+      NAME C02-S05-airpods-case.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.07210424080111
+      PLAYRATE 0.8 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {433A33C8-440C-A749-A642-30091DBB8A67}
+      <SOURCE SECTION
+        LENGTH 0.5
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S05-airpods-case.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 8.35298865926056
+      SNAPOFFS 0
+      LENGTH 0.41459938460638
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0 0.03833863418924 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A9DDDA27-ADCC-064B-84A6-9EB750CD69D8}
+      IID 187
+      NAME C02-S05-airpods-case.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.07210424080111
+      PLAYRATE 0.8 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F83A3710-2493-F94F-8EFE-591C0C4BBD32}
+      <SOURCE SECTION
+        LENGTH 0.5
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S05-airpods-case.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 8.44705384686485
+      SNAPOFFS 0
+      LENGTH 0.41459938460637
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.32053419700209 1 1 0 0
+      FADEOUT 1.1 0 0.05715167171009 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6C510E46-87EE-EE45-9F94-EF38FC0F304B}
+      IID 188
+      NAME C02-S05-airpods-case.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.07210424080111
+      PLAYRATE 0.8 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2FC235EE-F8D1-5C4C-94FC-13381E246E81}
+      <SOURCE SECTION
+        LENGTH 0.5
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S05-airpods-case.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 8.5317125157087
+      SNAPOFFS 0
+      LENGTH 0.41459938460637
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.23587552815824 1 1 0 0
+      FADEOUT 1.1 0 0.05715167171009 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E2AB7510-0F54-F548-BBBE-094FC2B481C6}
+      IID 189
+      NAME C02-S05-airpods-case.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.07210424080111
+      PLAYRATE 0.8 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {43549AFC-2AFB-FC4A-84E3-EF7DE873702B}
+      <SOURCE SECTION
+        LENGTH 0.5
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S05-airpods-case.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 8.58815162827128
+      SNAPOFFS 0
+      LENGTH 0.41459938460637
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.17943641559566 1 1 0 0
+      FADEOUT 1.1 0 0.11359078427266 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9BD8083B-9D3E-9346-9CDF-53097794EFF6}
+      IID 190
+      NAME C02-S05-airpods-case.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.07210424080111
+      PLAYRATE 0.8 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8287F550-2C23-8043-8820-10EC8126CA10}
+      <SOURCE SECTION
+        LENGTH 0.5
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S05-airpods-case.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 8.65399725959428
+      SNAPOFFS 0
+      LENGTH 0.41459938460637
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.11359078427266 1 1 0 0
+      FADEOUT 1.1 0 0.17943641559566 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {891055C0-9B28-5C4E-BEFD-DC65C84ACE5A}
+      IID 191
+      NAME C02-S05-airpods-case.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.07210424080111
+      PLAYRATE 0.8 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F51A8D5A-B2B3-AA4D-B6E7-C5BF2F299CCF}
+      <SOURCE SECTION
+        LENGTH 0.5
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S05-airpods-case.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 8.7292494096777
+      SNAPOFFS 0
+      LENGTH 0.41459938460637
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.03833863418924 1 1 0 0
+      FADEOUT 1.1 0 0.25468856567909 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6C8F1CC6-07EF-FB41-966D-6BDAD5C0338A}
+      IID 192
+      NAME C02-S05-airpods-case.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.07210424080111
+      PLAYRATE 0.8 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {82230078-4C57-3C4F-AD43-3B070D05D36A}
+      <SOURCE SECTION
+        LENGTH 0.5
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S05-airpods-case.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 8.80450155976113
+      SNAPOFFS 0
+      LENGTH 0.41459938460637
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.05715167171009 1 1 0 0
+      FADEOUT 1.1 0 0.32994071576251 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A7C4BC35-BB00-DA46-B3D2-A24C48A1ACEB}
+      IID 193
+      NAME C02-S05-airpods-case.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.07210424080111
+      PLAYRATE 0.8 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E7D99300-4B3F-7A41-8CB1-B5E8EEEB8D38}
+      <SOURCE SECTION
+        LENGTH 0.5
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S05-airpods-case.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 8.88916022860499
+      SNAPOFFS 0
+      LENGTH 0.41459938460637
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.05715167171009 1 1 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {04C8D277-33A9-274A-84BD-8C14BCD76046}
+      IID 194
+      NAME C02-S05-airpods-case.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.07210424080111
+      PLAYRATE 0.8 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9465019A-20DF-E641-A02D-E0893E2F3374}
+      <SOURCE SECTION
+        LENGTH 0.5
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S05-airpods-case.wav"
+        >
+      >
+    >
+    <ITEM
+      POSITION 9.60405565439756
+      SNAPOFFS 0
+      LENGTH 0.41459938460637
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {52815B72-9D11-4B46-8E90-6C460B4731AD}
+      IID 195
+      NAME C02-S05-airpods-case.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.07210424080111
+      PLAYRATE 0.8 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D77B8CAD-A9A5-D64D-BCB4-5D487EA321F9}
+      <SOURCE SECTION
+        LENGTH 0.5
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S05-airpods-case.wav"
+        >
+      >
+    >
+  >
+  <TRACK {E305C44A-8596-EA4B-A6F7-0DC9072CF659}
+    NAME c
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E305C44A-8596-EA4B-A6F7-0DC9072CF659}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.94428945466761
+      SNAPOFFS 0
+      LENGTH 0.33333333333334
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CE1231DC-6255-D849-B33C-05AC8BE95814}
+      IID 147
+      NAME C02-S05-airpods-case.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.5 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2AD58D6C-833A-B448-AA20-E4556B06586A}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S05-airpods-case.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.80305236114314
+      SNAPOFFS 0
+      LENGTH 0.33333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CD358715-412B-2345-B919-B95DC44B0BE2}
+      IID 151
+      NAME C02-S05-airpods-case.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.5 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {261607AA-00D9-7D4E-8913-D60E8CAAD381}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S05-airpods-case.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.57654058502351
+      SNAPOFFS 0
+      LENGTH 0.33333333333334
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6705B052-2237-FC44-A970-6B9776A26171}
+      IID 177
+      NAME C02-S05-airpods-case.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1BBAA63B-D89F-BE49-8BC1-672787E7B07E}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S05-airpods-case.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.82040558588742
+      SNAPOFFS 0
+      LENGTH 0.33333333333334
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AEF5719A-74AD-C540-B38E-B68CB4494322}
+      IID 197
+      NAME C02-S05-airpods-case.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.5 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AFF40F60-4F2C-644B-9BB6-34775E4491A5}
+      <SOURCE WAVE
+        FILE "/Users/haoleima/Desktop/Concordia/2 2026 Fall/CART 346/CART346-OSaD/C02/C02-S05-airpods-case.wav"
+      >
+    >
+  >
+>
