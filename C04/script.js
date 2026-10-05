@@ -6,7 +6,7 @@ const SOUNDS = [
   'assets/C04-S01-speaking.wav',
   'assets/C04-S02-clicking.wav',
   'assets/C04-S03-coke.wav',
-  'assets/4.wav',
+  'assets/C04-S04-wheel.wav',
   'assets/5.wav',
 ];
 
