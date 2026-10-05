@@ -4,7 +4,7 @@
 // ═══════════════════════════════════════════════════════════════════════════════
 const SOUNDS = [
   'assets/C04-S01-speaking.wav',
-  'assets/2.wav',
+  'assets/C04-S02-clicking.wav',
   'assets/3.wav',
   'assets/4.wav',
   'assets/5.wav',
