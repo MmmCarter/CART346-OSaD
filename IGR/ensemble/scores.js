@@ -50,7 +50,7 @@ const SOUND_DIR = '../assets/';
 // The sound buttons of Free mode, in button order
 const LOOP_SOUNDS = [
   'demo/1', 'demo/2', 'demo/3', 'demo/4', 'demo/5',
-  'demo/karateka', 'demo/door', 'demo/wall-thump', 'demo/cowbell-minipops', 'C08-S01-wall-knock_FAV', 'C08-S02-hand-knock', 'C08-S03-scrape', 'C08-S04-cap-click', 'C08-S05-rub',
+  'demo/karateka', 'demo/door', 'demo/wall-thump', 'demo/cowbell-minipops', 'C08-S01-wall-knock_FAV', 'C08-S02-hand-knock', 'C08-S03-scrape', 'C08-S04-cap-click', 'C08-S05-rub', 'C09-S01-pulse', 'C09-S02-breathing', 'C09-S03-glitch_FAV', 'C09-S04-drifting', 'C09-S05-awakening',
 ];
 
 // Credit line for every score made from the Productions Totem Contemporain sounds
